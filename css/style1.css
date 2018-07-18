@@ -1,0 +1,18 @@
+.box-1{ 
+    width: 100px;
+    height: 100px;
+    position: static;
+    background-color: pink;
+}
+.box-2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 100px;
+    background-color: powderblue;
+}
+.box-3{
+    width: 100px;
+    height: 100px;
+    background-color: #b2ab21;
+}

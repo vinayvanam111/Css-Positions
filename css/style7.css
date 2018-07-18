@@ -1,0 +1,25 @@
+
+.rounded{
+    border-radius: 50px;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left:1187px;
+    top: 0;
+    border-top-right-radius: 1px;
+}
+.box{
+    background-color: pink;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    top: 200px;
+    left: 50px;
+}
+.footer{
+    background-color: green;
+    height: 45px;
+    position: relative;
+    top: 200px;
+}
