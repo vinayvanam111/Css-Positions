@@ -1,0 +1,36 @@
+.border{
+    border: 1px solid black;
+    background-color: #b51c4d;
+    width: 400px;
+    height: 400px;
+    left: 430px;
+    top: 50px;
+    position: relative;
+}
+.border-1{
+    border: 1px solid black;
+    background-color: #a4ce31;
+    width: 300px;
+    height: 300px;
+    left: 45px;
+    top: 50px;
+    position: relative;
+}
+.border-2{
+    border: 1px solid black;
+    background-color: #18ba6e;
+    width: 200px;
+    height: 200px;
+    left: 45px;
+    top: 50px;
+    position: relative;
+}
+.border-3{
+    border: 1px solid black;
+    background-color: #b5321b;
+    width: 100px;
+    height: 100px;
+    left: 45px;
+    top: 50px;
+    position: relative;
+}

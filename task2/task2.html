@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>positions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<form action="">
+    <label for="string">* Write a regular expression to contains (2-5 string which can be a-z and 0-9 characters)</label><br><br>
+
+    <input type="text" name="string" pattern="[a-z0-9]{5}" id="string" placeholder="Enter string" title="please Enter string"/>
+    <br><br>
+
+    <input type="submit">
+</form>
+
+<br><br>
+
+<form action="">
+    <label for="a-z">* Write a regular expression to contains (2-5 string which are a-z characters)</label><br><br>
+
+    <input type="text" name="letters" pattern="[a-z]{5}" id="a-z" placeholder="Enter letters"/>
+    <br><br>
+
+    <input type="submit">
+</form>
+
+<br><br>
+<form action="">
+    <label for="0-9">* Write a regular expression to contains (2-5 string which are 0-9 characters)</label><br><br>
+
+    <input type="text" name="numbers" pattern="[0-9]{5}" id="0-9" placeholder="Enter Numbers"/>
+    <br><br>
+
+    <input type="submit">
+</form>
+
+<br><br>
+<form action="">
+    <label for="alphanumeric">* Write a regular expression to (Remove all non alphanumeric characters from a string)</label><br><br>
+
+    <input type="text" name="alphanumeric" pattern="[^0-9a-zA-Z_]{5}" id="alphanumeric" placeholder="Enter Numbers"/>
+    <br><br>
+
+    <input type="submit">
+</form>
+
+
+
+</body>
+</html>

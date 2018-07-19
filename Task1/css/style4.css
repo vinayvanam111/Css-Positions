@@ -1,0 +1,14 @@
+.box-1{
+	background-color: #a5094d;
+	width: 980px;
+	height: 300px;
+	position: static;
+}
+
+.box-2{
+	background-color: #8e9915;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	left: 980px;
+}

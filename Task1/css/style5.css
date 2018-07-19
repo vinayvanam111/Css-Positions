@@ -1,0 +1,30 @@
+.top-left{
+    width: 100px;
+    height: 100px;
+    position: static;
+    background-color: palevioletred;
+}
+.top-right{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 1160px;
+    background-color: powderblue;
+}
+.bottom-left{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    background-color: lightgreen;
+    top: 300px;
+}
+.bottom-right{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 1160px;
+    background-color: yellowgreen;
+}
+div{
+
+}
